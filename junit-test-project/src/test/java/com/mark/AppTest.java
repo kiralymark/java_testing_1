@@ -1,0 +1,23 @@
+/*
+package com.mark;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+//
+// Unit test for simple App.
+//
+public class AppTest 
+{
+    //
+    // Test sample
+    //
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+    
+}
+*/
